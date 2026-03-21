@@ -1,56 +1,24 @@
-# 🌌 Chat-GPT Aurora: Inteligência Artificial para Speckle Automate
-
-O **Chat-GPT Aurora** é uma função para o **Speckle Automate** que integra o poder dos modelos de linguagem de grande porte (LLMs) da OpenAI para realizar análises inteligentes, auditorias e otimizações em modelos BIM diretamente no ecossistema Speckle.
-
-## 🚀 Funcionalidades
-
-- **Análise Semântica**: Interpreta a estrutura do modelo e identifica inconsistências lógicas.
-- **Auditoria Automatizada**: Verifica se os tipos de objetos e parâmetros estão de acordo com as diretrizes do projeto.
-- **Relatórios em Markdown**: Gera relatórios detalhados anexados diretamente à versão do modelo no Speckle.
-- **Flexibilidade de Prompt**: Permite que o usuário defina o foco da análise (ex.: "Verifique a consistência estrutural" ou "Sugira melhorias de eficiência energética").
-
-## 🛠️ Como Funciona
-
-A função extrai os metadados dos objetos BIM via Speckle SDK, resume a estrutura do modelo e utiliza a API da OpenAI (Aurora) para processar esses dados. O resultado é devolvido ao usuário como um status de execução e um arquivo de relatório persistente.
-
-## 📋 Pré-requisitos
-
-- Conta no [Speckle](https://speckle.xyz/)
-- Chave de API da [OpenAI](https://platform.openai.com/)
-- Projeto configurado no Speckle Automate
-
-## ⚙️ Configuração de Entrada
-
-Ao configurar esta função no Speckle Automate, você precisará fornecer:
-
-| Campo | Tipo | Descrição |
-| :--- | :--- | :--- |
-| `openai_api_key` | Secret | Sua chave secreta da API OpenAI. |
-| `analysis_prompt` | String | Instruções específicas para a IA Aurora. |
-
-## 📦 Instalação e Desenvolvimento Local
-
-Se você deseja modificar ou testar a função localmente:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/felipetjmg1-bit/Chat-gpt-aurora-.git
-   ```
-
-2. Instale as dependências:
-   ```bash
-   pip install .
-   ```
-
-3. Execute os testes:
-   ```bash
-   pytest
-   ```
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença **Apache-2.0**.
-
----
-
-**Desenvolvido para levar a Inteligência Artificial ao coração do BIM com Speckle.**
+​🛡️ Aurora Kids ID: Soberania e Proteção Digital Integral
+​O primeiro ecossistema brasileiro de segurança preditiva e identidade digital blindada para crianças e adolescentes.
+​O Aurora Kids ID não é apenas um filtro de conteúdo; é uma infraestrutura de rede soberana projetada para ser o sistema de segurança mais robusto do mundo na proteção do público infantojuvenil. Unindo IA Preditiva, DNS Seguro Nacional e Blockchain, o projeto elimina a dependência de soluções estrangeiras e garante que os dados dos nossos jovens permaneçam em solo brasileiro.
+​🚀 Pilares Tecnológicos
+​1. Camada de Rede (DNS Seguro Nacional)
+​Intercepção de ameaças na raiz da conexão. Através de um resolver DNS próprio, o sistema bloqueia domínios maliciosos, sites de phishing e conteúdos inadequados antes mesmo de serem renderizados no navegador.
+​2. Inteligência Artificial Preditiva (Sentinela)
+​Diferente de listas estáticas, nossa IA analisa o contexto semântico e visual em tempo real. Ela é treinada especificamente para identificar gírias, comportamentos predatórios e riscos específicos do cenário digital brasileiro.
+​3. Identidade Blindada (Blockchain & ID)
+​Utilizamos tecnologia de ledger distribuído para criar uma Identidade Digital (ID) criptografada. Isso impede o rastreamento comercial por grandes corporações (Big Techs) e garante a fragmentação e proteção total dos dados sensíveis de menores.
+​🎯 Objetivos do Projeto
+​Soberania Nacional: Criar uma alternativa brasileira autossuficiente em segurança cibernética.
+​Privacidade Total: Conformidade estrita com a LGPD, garantindo que nenhum dado de navegação de menores seja vendido ou exportado.
+​Educação Gamificada: Implementar sistemas de recompensas (tokens) para adolescentes que completarem módulos de cidadania digital.
+​🛠️ Estrutura do Repositório
+​/core-engine: Motor de IA para filtragem e análise de tráfego.
+​/dns-infrastructure: Scripts de configuração e deploys de servidores DNS.
+​/contracts: Smart contracts para gestão da Identidade Digital.
+​/docs: Whitepaper detalhado e guias de implementação para órgãos governamentais.
+​🇧🇷 Por que o Aurora Kids ID?
+​O Brasil é um dos países com maior tempo de exposição digital de jovens no mundo. O Aurora Kids ID nasce para ser a "Muralha Digital" que protege o futuro da nossa nação, transformando o Brasil em um exportador de tecnologia de segurança e não apenas um consumidor de soluções limitadas.
+​Status do Projeto: Em desenvolvimento (MVP).
+Idealizador: Felipe Marcos de Abreu Aquino
+Empresa: Impulso Digital Soluções em I.A.
