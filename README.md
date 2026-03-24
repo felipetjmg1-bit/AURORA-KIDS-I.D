@@ -1,6 +1,6 @@
 # 🛡️ Aurora Kids ID: Soberania e Proteção Digital Integral
 
-**O sistema de segurança digital mais robusto do mundo para o Brasil.** 
+**O sistema de segurança digital nacional do Brasil el ia soberana .** 
 
 O **Aurora Kids ID** é um ecossistema de infraestrutura de rede soberana projetado para garantir a segurança integral de crianças e adolescentes. Unindo **IA Preditiva**, **DNS Seguro Nacional** e **Blockchain**, criamos uma muralha tecnológica que blinda o futuro da nossa nação contra ameaças externas e rastreamento comercial.
 
