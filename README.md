@@ -15,17 +15,17 @@ Este projeto representa um compromisso com a **soberania tecnológica** e a **pr
 
 ## 🎯 Principais Características
 
-- **Proteção em Tempo Real:** Monitoramento contínuo de ameaças digitais e comportamentos suspeitos
-- **Controle Parental Avançado:** Interface intuitiva para pais gerenciarem o acesso digital de seus filhos
-- **Detecção de Ameaças:** Identificação automática de conteúdo prejudicial, predadores online e golpes digitais
-- **Rastreamento Seguro:** Localização segura com criptografia de ponta a ponta
-- **Relatórios Detalhados:** Análises comportamentais e alertas personalizados
-- **Conformidade LGPD:** Totalmente alinhado com a Lei Geral de Proteção de Dados brasileira
-- **Infraestrutura Soberana:** Dados armazenados em servidores brasileiros com criptografia de nível militar
+- **Proteção em Tempo Real:** Monitoramento contínuo de ameaças digitais e comportamentos suspeitos.
+- **Controle Parental Avançado:** Interface intuitiva para pais gerenciarem o acesso digital de seus filhos.
+- **Detecção de Ameaças:** Identificação automática de conteúdo prejudicial, predadores online e golpes digitais.
+- **Rastreamento Seguro:** Localização segura com criptografia de ponta a ponta.
+- **Relatórios Detalhados:** Análises comportamentais e alertas personalizados.
+- **Conformidade LGPD:** Totalmente alinhado com a Lei Geral de Proteção de Dados brasileira.
+- **Infraestrutura Soberana:** Dados armazenados em servidores brasileiros com criptografia de nível militar.
 
 ## 🏗️ Arquitetura Técnica
 
-```
+```text
 AURORA-KIDS-I.D
 ├── backend/
 │   ├── core/
@@ -98,33 +98,33 @@ docker-compose up -d
 
 ### Para Pais e Responsáveis
 
-- Monitorar atividades online dos filhos em tempo real
-- Receber alertas sobre comportamentos suspeitos
-- Gerenciar limites de tempo de tela por dispositivo
-- Visualizar histórico de navegação e aplicativos utilizados
+- Monitorar atividades online dos filhos em tempo real.
+- Receber alertas sobre comportamentos suspeitos.
+- Gerenciar limites de tempo de tela por dispositivo.
+- Visualizar histórico de navegação e aplicativos utilizados.
 
 ### Para Instituições Educacionais
 
-- Proteger alunos em ambientes escolares conectados
-- Conformidade com regulamentações de proteção de dados
-- Relatórios de segurança para pais e responsáveis
-- Integração com sistemas educacionais existentes
+- Proteger alunos em ambientes escolares conectados.
+- Conformidade com regulamentações de proteção de dados.
+- Relatórios de segurança para pais e responsáveis.
+- Integração com sistemas educacionais existentes.
 
 ### Para Órgãos Governamentais
 
-- Proteção de infraestrutura crítica relacionada à educação
-- Conformidade com políticas de soberania tecnológica
-- Análise de ameaças em nível nacional
-- Integração com sistemas de segurança pública
+- Proteção de infraestrutura crítica relacionada à educação.
+- Conformidade com políticas de soberania tecnológica.
+- Análise de ameaças em nível nacional.
+- Integração com sistemas de segurança pública.
 
 ## 🔐 Segurança e Conformidade
 
-- **Criptografia:** AES-256 para dados em repouso, TLS 1.3 para dados em trânsito
-- **Autenticação:** OAuth 2.0 com suporte a 2FA
-- **LGPD:** Conformidade total com Lei Geral de Proteção de Dados
-- **GDPR:** Compatível com regulamentações internacionais
-- **Auditorias:** Logs completos de todas as operações para conformidade regulatória
-- **Penetration Testing:** Testes de segurança regulares por terceiros
+- **Criptografia:** AES-256 para dados em repouso, TLS 1.3 para dados em trânsito.
+- **Autenticação:** OAuth 2.0 com suporte a 2FA.
+- **LGPD:** Conformidade total com Lei Geral de Proteção de Dados.
+- **GDPR:** Compatível com regulamentações internacionais.
+- **Auditorias:** Logs completos de todas as operações para conformidade regulatória.
+- **Penetration Testing:** Testes de segurança regulares por terceiros.
 
 ## 📈 Roadmap 2026
 
@@ -141,11 +141,11 @@ Valorizamos contribuições da comunidade! Veja [CONTRIBUTING.md](CONTRIBUTING.m
 
 ### Processo de Contribuição
 
-1. Faça um fork do repositório
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
+1. Faça um fork do repositório.
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`).
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`).
+4. Push para a branch (`git push origin feature/AmazingFeature`).
+5. Abra um Pull Request.
 
 ## 📚 Documentação
 
