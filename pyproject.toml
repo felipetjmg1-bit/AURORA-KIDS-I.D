@@ -20,7 +20,7 @@ dependencies = [
 dev = [
     "mypy==1.20.2",
     "pytest==9.0.3",
-    "ruff==0.16.0",
+    "ruff==0.16.4",
 ]
 
 [tool.ruff]
