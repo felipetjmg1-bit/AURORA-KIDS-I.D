@@ -81,3 +81,10 @@ dist/
 build/
 
 *.pyc
+
+# Arquivos locais e artefatos de desenvolvimento
+Thumbs.db
+.venv/
+.mypy_cache/
+.ruff_cache/
+!.env.example
